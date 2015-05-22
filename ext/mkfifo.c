@@ -1,4 +1,4 @@
-#include <ruby/ruby.h>
+#include <ruby.h>
 #include <string.h>
 #include <sys/stat.h>
 
